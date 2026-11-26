@@ -1,0 +1,60 @@
+Task_ID,Preprocessing,Representation,Components,Is_Grid_Point,Selection_Methods,Validation_Accuracy,Training_Time_Seconds,Convergence_Warning,Warning_Details,Iterations
+Scaled and Centered|baseline_784,Scaled and Centered,Original baseline,784,False,,0.8614,16.391616582870483,False,,243
+Scaled and Centered|pca_1,Scaled and Centered,PCA,1,True,,0.2749,0.34792089462280273,False,,66
+Scaled and Centered|pca_2,Scaled and Centered,PCA,2,True,,0.5144,0.7956604957580566,False,,165
+Scaled and Centered|pca_3,Scaled and Centered,PCA,3,True,,0.6209,0.8284823894500732,False,,162
+Scaled and Centered|pca_4,Scaled and Centered,PCA,4,True,,0.6846,1.1179821491241455,False,,227
+Scaled and Centered|pca_5,Scaled and Centered,PCA,5,True,,0.7129,1.0386371612548828,False,,205
+Scaled and Centered|pca_7,Scaled and Centered,PCA,7,True,,0.7292,1.0215702056884766,False,,199
+Scaled and Centered|pca_9,Scaled and Centered,PCA,9,True,,0.7593,1.422780990600586,False,,265
+Scaled and Centered|pca_12,Scaled and Centered,PCA,12,True,,0.783,1.5858385562896729,False,,288
+Scaled and Centered|pca_16,Scaled and Centered,PCA,16,True,,0.8022,1.7146344184875488,False,,301
+Scaled and Centered|pca_21,Scaled and Centered,PCA,21,True,,0.8169,1.9359025955200195,False,,307
+Scaled and Centered|pca_28,Scaled and Centered,PCA,28,True,,0.8271,2.2645461559295654,False,,327
+Scaled and Centered|pca_37,Scaled and Centered,PCA,37,True,,0.8362,2.67885422706604,False,,340
+Scaled and Centered|pca_49,Scaled and Centered,PCA,49,True,,0.8475,3.163508892059326,False,,369
+Scaled and Centered|pca_64,Scaled and Centered,PCA,64,True,,0.8498,3.908963441848755,False,,398
+Scaled and Centered|pca_85,Scaled and Centered,PCA,85,True,,0.8542,5.03109884262085,False,,432
+Scaled and Centered|pca_112,Scaled and Centered,PCA,112,True,,0.8609,6.779474258422852,False,,493
+Scaled and Centered|pca_148,Scaled and Centered,PCA,148,True,,0.8641,7.751014232635498,False,,471
+Scaled and Centered|pca_196,Scaled and Centered,PCA,196,True,,0.8641,8.177438020706177,False,,403
+Scaled and Centered|pca_258,Scaled and Centered,PCA,258,True,,0.864,12.437906265258789,False,,457
+Scaled and Centered|pca_341,Scaled and Centered,PCA,341,True,,0.8637,14.654110431671143,False,,443
+Scaled and Centered|pca_450,Scaled and Centered,PCA,450,True,,0.8622,18.798787117004395,False,,461
+Scaled and Centered|pca_594,Scaled and Centered,PCA,594,True,,0.8621,24.017051935195923,False,,461
+Scaled and Centered|pca_784,Scaled and Centered,PCA,784,True,,0.8627,34.10146450996399,False,,507
+Scaled and Centered|pca_84,Scaled and Centered,PCA,84,False,90% Explained Variance,0.8544,4.761399984359741,False,,423
+Scaled and Centered|pca_187,Scaled and Centered,PCA,187,False,95% Explained Variance,0.8654,8.481445074081421,False,,443
+Scaled and Centered|pca_58,Scaled and Centered,PCA,58,False,Kaiser (Covariance Analogue),0.848,3.708625316619873,False,,407
+Scaled and Centered|pca_15,Scaled and Centered,PCA,15,False,Scree Elbow,0.7989,1.4254229068756104,False,,253
+Scaled and Centered|pca_39,Scaled and Centered,PCA,39,False,Horn's Parallel Analysis,0.8397,3.023993492126465,False,,402
+Scaled and Centered|pca_783,Scaled and Centered,PCA,783,False,Minka's MLE,0.8627,27.4594304561615,False,,410
+Standardised|baseline_784,Standardised,Original baseline,784,False,,0.8549,77.54585313796997,False,,1138
+Standardised|pca_1,Standardised,PCA,1,True,,0.2739,0.5925016403198242,False,,119
+Standardised|pca_2,Standardised,PCA,2,True,,0.5045,2.213949680328369,False,,478
+Standardised|pca_3,Standardised,PCA,3,True,,0.6092,2.621243715286255,False,,538
+Standardised|pca_4,Standardised,PCA,4,True,,0.6819,2.5685882568359375,False,,544
+Standardised|pca_5,Standardised,PCA,5,True,,0.7077,3.218038558959961,False,,653
+Standardised|pca_7,Standardised,PCA,7,True,,0.738,2.7375478744506836,False,,538
+Standardised|pca_9,Standardised,PCA,9,True,,0.7455,3.855522632598877,False,,747
+Standardised|pca_12,Standardised,PCA,12,True,,0.7821,3.9580490589141846,False,,739
+Standardised|pca_16,Standardised,PCA,16,True,,0.7939,5.075956106185913,False,,898
+Standardised|pca_21,Standardised,PCA,21,True,Scree Elbow,0.812,6.484938383102417,False,,1083
+Standardised|pca_28,Standardised,PCA,28,True,,0.8217,7.131780624389648,False,,1110
+Standardised|pca_37,Standardised,PCA,37,True,,0.8337,9.629935026168823,False,,1383
+Standardised|pca_49,Standardised,PCA,49,True,,0.84,11.41599416732788,False,,1437
+Standardised|pca_64,Standardised,PCA,64,True,,0.8492,12.049263954162598,False,,1259
+Standardised|pca_85,Standardised,PCA,85,True,,0.8533,17.145084857940674,False,,1509
+Standardised|pca_112,Standardised,PCA,112,True,,0.8574,22.7992947101593,False,,1662
+Standardised|pca_148,Standardised,PCA,148,True,,0.8579,30.61165690422058,False,,1915
+Standardised|pca_196,Standardised,PCA,196,True,,0.8619,33.77351927757263,False,,1712
+Standardised|pca_258,Standardised,PCA,258,True,,0.8629,47.35234713554382,False,,1786
+Standardised|pca_341,Standardised,PCA,341,True,,0.8622,63.69223952293396,False,,1951
+Standardised|pca_450,Standardised,PCA,450,True,,0.8606,68.6365602016449,False,,1677
+Standardised|pca_594,Standardised,PCA,594,True,,0.8572,99.26342940330505,False,,1892
+Standardised|pca_784,Standardised,PCA,784,True,,0.8547,130.98175072669983,False,,1940
+Standardised|pca_137,Standardised,PCA,137,False,90% Explained Variance,0.8562,28.163145065307617,False,,1866
+Standardised|pca_256,Standardised,PCA,256,False,95% Explained Variance,0.8621,43.758002042770386,False,,1811
+Standardised|pca_80,Standardised,PCA,80,False,Kaiser (Eigenvalue > 1),0.8531,17.178361415863037,False,,1558
+Standardised|pca_67,Standardised,PCA,67,False,Horn's Parallel Analysis,0.8502,15.428208589553833,False,,1569
+Standardised|pca_783,Standardised,PCA,783,False,Minka's MLE,0.8548,148.4912896156311,False,,2167

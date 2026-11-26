@@ -1,0 +1,47 @@
+Preprocessing,Components,Validation_Accuracy,Training_Time_Seconds,Convergence_Warning,Warning_Details,Iterations
+Scaled and Centered,1,0.2743,0.19742846488952637,False,,57
+Scaled and Centered,2,0.5128,0.32848334312438965,False,,161
+Scaled and Centered,3,0.622,0.37450623512268066,False,,181
+Scaled and Centered,4,0.6861,0.3738405704498291,False,,189
+Scaled and Centered,5,0.7112,0.42364931106567383,False,,209
+Scaled and Centered,7,0.7284,0.40054845809936523,False,,198
+Scaled and Centered,9,0.7568,0.4605247974395752,False,,217
+Scaled and Centered,12,0.7827,0.5290517807006836,False,,245
+Scaled and Centered,16,0.802,0.5586159229278564,False,,243
+Scaled and Centered,21,0.8171,0.6900162696838379,False,,282
+Scaled and Centered,28,0.8247,0.7233257293701172,False,,286
+Scaled and Centered,37,0.8352,0.8159821033477783,False,,299
+Scaled and Centered,49,0.8462,0.9816136360168457,False,,315
+Scaled and Centered,64,0.8485,1.12052321434021,False,,330
+Scaled and Centered,85,0.8503,1.3906471729278564,False,,344
+Scaled and Centered,112,0.8557,1.8341310024261475,False,,366
+Scaled and Centered,148,0.8577,2.2936413288116455,False,,380
+Scaled and Centered,196,0.8574,2.7849924564361572,False,,367
+Scaled and Centered,258,0.8586,3.9074525833129883,False,,389
+Scaled and Centered,341,0.8574,4.74202823638916,False,,371
+Scaled and Centered,450,0.8547,6.755525588989258,False,,408
+Scaled and Centered,594,0.8535,7.960605144500732,False,,377
+Scaled and Centered,784,0.8528,10.408716440200806,False,,377
+Standardised,1,0.2732,0.26566481590270996,False,,115
+Standardised,2,0.5015,0.5975942611694336,False,,317
+Standardised,3,0.6162,0.8883802890777588,False,,459
+Standardised,4,0.6808,1.129202127456665,False,,581
+Standardised,5,0.7059,1.1589620113372803,False,,588
+Standardised,7,0.7387,1.1408021450042725,False,,556
+Standardised,9,0.7442,1.5033447742462158,False,,724
+Standardised,12,0.7828,1.7117421627044678,False,,796
+Standardised,16,0.7903,1.5848619937896729,False,,714
+Standardised,21,0.8096,1.929016351699829,False,,804
+Standardised,28,0.821,2.4787585735321045,False,,991
+Standardised,37,0.8296,3.4193081855773926,False,,1239
+Standardised,49,0.8393,3.8060123920440674,False,,1256
+Standardised,64,0.8477,4.382254123687744,False,,1322
+Standardised,85,0.8515,5.953977108001709,False,,1524
+Standardised,112,0.8526,8.011022567749023,False,,1690
+Standardised,148,0.8554,9.477399826049805,False,,1633
+Standardised,196,0.8554,11.944456338882446,False,,1596
+Standardised,258,0.8555,15.765583515167236,False,,1608
+Standardised,341,0.8494,23.954445600509644,False,,1914
+Standardised,450,0.8426,29.606175661087036,False,,1827
+Standardised,594,0.8374,37.60508322715759,False,,1775
+Standardised,784,0.8296,46.179115533828735,False,,1681

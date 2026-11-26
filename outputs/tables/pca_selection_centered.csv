@@ -1,0 +1,7 @@
+Preprocessing,Method,Selected k
+Scaled and Centered,90% Explained Variance,84
+Scaled and Centered,95% Explained Variance,187
+Scaled and Centered,Kaiser (Covariance Analogue),58
+Scaled and Centered,Scree Elbow,15
+Scaled and Centered,Horn's Parallel Analysis,39
+Scaled and Centered,Minka's MLE,783

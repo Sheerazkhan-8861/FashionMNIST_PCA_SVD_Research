@@ -1,0 +1,7 @@
+Preprocessing,Method,Selected k
+Standardised,90% Explained Variance,137
+Standardised,95% Explained Variance,256
+Standardised,Kaiser (Eigenvalue > 1),80
+Standardised,Scree Elbow,21
+Standardised,Horn's Parallel Analysis,67
+Standardised,Minka's MLE,783

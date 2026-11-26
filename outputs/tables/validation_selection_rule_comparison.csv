@@ -1,0 +1,13 @@
+Preprocessing,Selection_Method,Selected_k,Validation_Accuracy,Accuracy_Difference_pp_vs_Best_Grid,Best_Grid_k,Best_Grid_Accuracy,Training_Time_Seconds,Convergence_Warning
+Scaled and Centered,95% Explained Variance,187,0.8654,0.12999999999999678,148,0.8641,8.481445074081421,False
+Scaled and Centered,Minka's MLE,783,0.8627,-0.13999999999999568,148,0.8641,27.4594304561615,False
+Scaled and Centered,90% Explained Variance,84,0.8544,-0.9699999999999931,148,0.8641,4.761399984359741,False
+Scaled and Centered,Kaiser (Covariance Analogue),58,0.848,-1.6100000000000003,148,0.8641,3.708625316619873,False
+Scaled and Centered,Horn's Parallel Analysis,39,0.8397,-2.4399999999999977,148,0.8641,3.023993492126465,False
+Scaled and Centered,Scree Elbow,15,0.7989,-6.5199999999999925,148,0.8641,1.4254229068756104,False
+Standardised,95% Explained Variance,256,0.8621,-0.08000000000000229,258,0.8629,43.758002042770386,False
+Standardised,90% Explained Variance,137,0.8562,-0.6700000000000039,258,0.8629,28.163145065307617,False
+Standardised,Minka's MLE,783,0.8548,-0.8099999999999996,258,0.8629,148.4912896156311,False
+Standardised,Kaiser (Eigenvalue > 1),80,0.8531,-0.9800000000000031,258,0.8629,17.178361415863037,False
+Standardised,Horn's Parallel Analysis,67,0.8502,-1.2700000000000045,258,0.8629,15.428208589553833,False
+Standardised,Scree Elbow,21,0.812,-5.0899999999999945,258,0.8629,6.484938383102417,False

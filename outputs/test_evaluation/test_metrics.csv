@@ -1,0 +1,17 @@
+Task_ID,Preprocessing,Representation,Components,Selection_Method,Test_Accuracy,Training_Time_Seconds,Convergence_Warning,Warning_Details,Iterations
+Scaled and Centered|baseline_784,Scaled and Centered,Original baseline,784,Original baseline,0.8425,16.36694598197937,False,,243
+Scaled and Centered|best_validation_grid_k148,Scaled and Centered,PCA,148,Best validation grid,0.8453,7.5895068645477295,False,,471
+Scaled and Centered|rule_90%_explained_variance,Scaled and Centered,PCA,84,90% Explained Variance,0.8381,4.728466272354126,False,,423
+Scaled and Centered|rule_95%_explained_variance,Scaled and Centered,PCA,187,95% Explained Variance,0.8441,8.653881311416626,False,,443
+Scaled and Centered|rule_kaiser_(covariance_analogue),Scaled and Centered,PCA,58,Kaiser (Covariance Analogue),0.83,3.836545705795288,False,,407
+Scaled and Centered|rule_scree_elbow,Scaled and Centered,PCA,15,Scree Elbow,0.7832,1.4469962120056152,False,,253
+Scaled and Centered|rule_horn's_parallel_analysis,Scaled and Centered,PCA,39,Horn's Parallel Analysis,0.8233,3.0021841526031494,False,,402
+Scaled and Centered|rule_minka's_mle,Scaled and Centered,PCA,783,Minka's MLE,0.8419,27.73838210105896,False,,410
+Standardised|baseline_784,Standardised,Original baseline,784,Original baseline,0.8322,77.94329857826233,False,,1138
+Standardised|best_validation_grid_k258,Standardised,PCA,258,Best validation grid,0.8453,47.78766322135925,False,,1786
+Standardised|rule_90%_explained_variance,Standardised,PCA,137,90% Explained Variance,0.8414,28.360559940338135,False,,1866
+Standardised|rule_95%_explained_variance,Standardised,PCA,256,95% Explained Variance,0.8455,44.99082589149475,False,,1811
+Standardised|rule_kaiser_(eigenvalue_>_1),Standardised,PCA,80,Kaiser (Eigenvalue > 1),0.8347,17.75028657913208,False,,1558
+Standardised|rule_scree_elbow,Standardised,PCA,21,Scree Elbow,0.7964,6.7801127433776855,False,,1083
+Standardised|rule_horn's_parallel_analysis,Standardised,PCA,67,Horn's Parallel Analysis,0.8303,16.0596022605896,False,,1569
+Standardised|rule_minka's_mle,Standardised,PCA,783,Minka's MLE,0.8319,150.84408378601074,False,,2167

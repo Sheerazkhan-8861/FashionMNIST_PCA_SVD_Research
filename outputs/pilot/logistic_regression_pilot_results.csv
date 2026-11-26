@@ -1,0 +1,131 @@
+Preprocessing,Components,Validation_Accuracy,Training_Time_Seconds,Convergence_Warning,Warning_Details,Iterations
+Scaled and Centered,1,0.2743,0.16722893714904785,False,,57
+Scaled and Centered,2,0.5128,0.31929588317871094,False,,161
+Scaled and Centered,3,0.622,0.364656925201416,False,,181
+Scaled and Centered,4,0.6861,0.37252283096313477,False,,189
+Scaled and Centered,5,0.7112,0.4039287567138672,False,,209
+Scaled and Centered,7,0.7284,0.38819050788879395,False,,198
+Scaled and Centered,9,0.7568,0.44031310081481934,False,,217
+Scaled and Centered,12,0.7827,0.51352858543396,False,,245
+Scaled and Centered,16,0.802,0.5399854183197021,False,,243
+Scaled and Centered,21,0.8171,0.6714279651641846,False,,282
+Scaled and Centered,28,0.8247,0.7000877857208252,False,,286
+Scaled and Centered,37,0.8352,0.801476001739502,False,,299
+Scaled and Centered,49,0.8462,0.9539427757263184,False,,315
+Scaled and Centered,64,0.8485,1.098909616470337,False,,330
+Scaled and Centered,85,0.8503,1.3627045154571533,False,,344
+Scaled and Centered,112,0.8557,1.7539076805114746,False,,366
+Scaled and Centered,148,0.8577,2.223114013671875,False,,380
+Scaled and Centered,196,0.8574,2.725796937942505,False,,367
+Scaled and Centered,258,0.8586,3.8545756340026855,False,,389
+Scaled and Centered,341,0.8574,4.659633159637451,False,,371
+Scaled and Centered,450,0.8547,6.690040111541748,False,,408
+Scaled and Centered,594,0.8535,7.926855564117432,False,,377
+Scaled and Centered,784,0.8528,10.313013792037964,False,,377
+Standardised,1,0.2732,0.25684309005737305,False,,115
+Standardised,2,0.5015,0.578465461730957,False,,317
+Standardised,3,0.6162,0.8705401420593262,False,,459
+Standardised,4,0.6808,1.0841667652130127,False,,581
+Standardised,5,0.7059,1.1306021213531494,False,,588
+Standardised,7,0.7387,1.1012060642242432,False,,556
+Standardised,9,0.7442,1.46571946144104,False,,724
+Standardised,12,0.7828,1.649994134902954,False,,796
+Standardised,16,0.7903,1.5600976943969727,False,,714
+Standardised,21,0.8096,1.8760368824005127,False,,804
+Standardised,28,0.821,2.444794178009033,False,,991
+Standardised,37,0.8296,2.6998372077941895,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,49,0.8395,2.97174334526062,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,64,0.8474,3.265359878540039,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,85,0.8523,3.9668638706207275,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,112,0.8524,4.765540838241577,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,148,0.8553,5.875196695327759,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,196,0.8551,7.4015138149261475,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,258,0.8563,9.843260526657104,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,341,0.8483,12.383354425430298,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,450,0.8418,16.193692445755005,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,594,0.8386,21.3458890914917,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
+Standardised,784,0.8304,27.35361099243164,True,"lbfgs failed to converge after 1000 iteration(s) (status=1):
+STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT
+
+Increase the number of iterations to improve the convergence (max_iter=1000).
+You might also want to scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression",1000
